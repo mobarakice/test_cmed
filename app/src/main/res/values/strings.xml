@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_text_ok">Ok</string>
+    <string name="label_text_download_file">Download File</string>
+    <string name="label_text_users">Users</string>
+    <string name="label_text_dashboard">Dashboard</string>
+    <string name="label_text_get_users">Get Users</string>
+    <string name="label_text_open_download_screen">Open Download Screen</string>
+</resources>
