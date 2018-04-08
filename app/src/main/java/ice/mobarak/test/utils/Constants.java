@@ -29,4 +29,9 @@ public interface Constants {
     // Add fragment Flag
     String CURRENT_FRAGMENT = "current_fragment";
     String DOT_JPG = ".jpg";
+    int REQUEST_WRITE_EXTERNAL_STORAGE = 1;
+
+
+    String DOWNLOAD_SERVICE = "DownloadFile Service";
+    String DOWNLOAD_FILE = "download_file";
 }

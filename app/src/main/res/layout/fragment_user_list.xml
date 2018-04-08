@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="@dimen/default_margin"
-    tools:context=".ui.userlist.UserListFragment">
+    tools:context=".ui.test02.UserListFragment">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/list"

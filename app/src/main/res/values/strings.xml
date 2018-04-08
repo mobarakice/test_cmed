@@ -10,4 +10,9 @@
     <string name="label_text_dashboard">Dashboard</string>
     <string name="label_text_get_users">Get Users</string>
     <string name="label_text_open_download_screen">Open Download Screen</string>
+    <string name="label_text_download_completed">File DownloadFile Complete</string>
+    <string name="label_text_downloaded">Downloaded</string>
+    <string name="label_text_mb">MB</string>
+    <string name="label_text_download">Download</string>
+    <string name="label_text_downloading">Downloading...</string>
 </resources>

@@ -22,4 +22,9 @@ public interface ApiUrls {
      * Women's Photo url
      */
     String WOMEN_PHOTO_URL = PHOTO_BASE_URL + "women/";
+    /**
+     * Base download url
+     */
+    String BASE_DOWNLOAD_URL = "http://dropbox.sandbox2000.com/";
+
 }
